@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Supermercado/Supermercado.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Supermercado/iniciarCaja.cs">
+    <Files>
+      <File FileName="Supermercado/iniciarCaja.cs" Line="97" Column="44" />
+      <File FileName="Supermercado/Caja.cs" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
