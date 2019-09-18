@@ -1,0 +1,6 @@
+D:\Mitsuha\Source\Repositorio\S-SuperMercado\Supermercado\bin\Debug\Supermercado.exe
+D:\Mitsuha\Source\Repositorio\S-SuperMercado\Supermercado\bin\Debug\Supermercado.pdb
+D:\Mitsuha\Source\Repositorio\S-SuperMercado\Supermercado\obj\x86\Debug\Supermercado.csprojAssemblyReference.cache
+D:\Mitsuha\Source\Repositorio\S-SuperMercado\Supermercado\obj\x86\Debug\Supermercado.csproj.CoreCompileInputs.cache
+D:\Mitsuha\Source\Repositorio\S-SuperMercado\Supermercado\obj\x86\Debug\Supermercado.exe
+D:\Mitsuha\Source\Repositorio\S-SuperMercado\Supermercado\obj\x86\Debug\Supermercado.pdb
